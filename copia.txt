@@ -1,4 +1,0 @@
-https - projetos públicos
-git clone url
-ssh - projetos privados
-git clone ssh

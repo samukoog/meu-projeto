@@ -1,0 +1,22 @@
+https - projetos públicos
+git clone url
+ssh - projetos privados
+git clone ssh
+git init
+git add .
+git config --global user.email "samuelrsgarcia@gmail.com"
+git config --global user.name "samukoog"
+git commit -m "primeiro commit"
+git status
+git add index.html
+git log
+git diff
+git restore index.html
+git branch
+git checkout -b nome-da-minha-branch
+git checkout master
+git merge nome-da-minha-branch
+git remote add origin https://github.com/samukoog/meu-projeto.git
+git push origin nome-da-minha-branch
+git pull origin nome-da-minha-branch
+git fetch
